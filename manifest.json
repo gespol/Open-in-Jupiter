@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Solana Raydium Address Detector",
+    "name": "Solana Jupiter Address Detector",
     "version": "1.0",
     "description": "Detects Solana addresses on web pages and adds a 'Open in Jupiter' button.",
     "content_scripts": [
