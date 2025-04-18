@@ -39,11 +39,7 @@ Contributing
 
 git checkout -b feature/your-feature-name
 
-
 	2.	Commit your changes with clear messages.
 	3.	Push to your fork and submit a pull request describing your improvements or fixes.
 
-License
-
-This project is licensed under the MIT License.
-
+[https://buymeacoffee.com/lopseg](https://buymeacoffee.com/lopseg)
